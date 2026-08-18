@@ -14,7 +14,7 @@
 
 <div align="center">
 
-## Mis habilidades
+## 🧑🏻‍💻 Mis habilidades
 
 **Full-Stack**
 
