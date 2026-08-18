@@ -1,3 +1,25 @@
+<span id="top"></span>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:050505,50:001f2f,75:003b55,100:00D4FF&height=250&section=header&text=WVVEREZ&fontSize=100&fontAlignY=30&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Developer%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Open%20Source&descAlignY=55&descSize=16&descColor=8B949E" width="100%" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&repeat=true&width=820&height=70&lines=Hello%20World%21;Building%20modern%20web%20experiences;React%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Python;Cybersecurity%20%E2%80%A2%20Open%20Source%20%E2%80%A2%20Linux" />
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=820&height=50&lines=%24%20ssh%20wvverez%40dev.universe%20--connect;%3E%20Connection%20established.%20Welcome%20to%20my%20profile." />
+
+<br><br>
+
+![Visitors](https://komarev.com/ghpvc/?username=wvverez&label=PROFILE+VIEWS&color=00D4FF&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/wvverez?label=FOLLOWERS&style=for-the-badge&color=00D4FF&labelColor=000000)
+![Stars](https://img.shields.io/github/stars/wvverez?affiliations=OWNER%2CCOLLABORATOR&label=TOTAL+STARS&style=for-the-badge&color=00D4FF&labelColor=000000)
+
+</div>
+
+---
+
 ## Habilidades
 
 <div align="center">
