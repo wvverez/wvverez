@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=820&height=50&lines=%24%20ssh%20wvverez%40dev.universe%20--connect;%3E%20Connection%20established.%20Welcome%20to%20my%20profile." />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=820&height=50&lines=%24%20ssh%20wvverez%40mind%20;%3E%20Connection%20established.%20Welcome%20to%20my%20profile." />
 
 <br><br>
 
