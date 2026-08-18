@@ -1,6 +1,6 @@
-<div align="center">
-
 ## Habilidades
+
+<div align="center">
 
 **Full-Stack**
 
