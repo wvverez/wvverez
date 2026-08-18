@@ -41,4 +41,16 @@
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00D4FF)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00D4FF)
 
+
+**Web3**
+
+![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=00D4FF)
+![Ethereum](https://img.shields.io/badge/Ethereum-000000?style=for-the-badge&logo=ethereum&logoColor=00D4FF)
+![Monero](https://img.shields.io/badge/Monero-000000?style=for-the-badge&logo=monero&logoColor=00D4FF)
+![Solana](https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=00D4FF)
+![Jupiter](https://img.shields.io/badge/Jupiter-000000?style=for-the-badge&logo=jupiter&logoColor=00D4FF)
+![Raydium](https://img.shields.io/badge/Raydium-000000?style=for-the-badge&logo=raydium&logoColor=00D4FF)
+![Uniswap](https://img.shields.io/badge/Uniswap-000000?style=for-the-badge&logo=uniswap&logoColor=00D4FF)
+![Memecoins](https://img.shields.io/badge/Memecoins-000000?style=for-the-badge&logo=dogecoin&logoColor=00D4FF)
+
 </div>
