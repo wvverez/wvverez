@@ -48,8 +48,6 @@
 ![Ethereum](https://img.shields.io/badge/Ethereum-000000?style=for-the-badge&logo=ethereum&logoColor=00D4FF)
 ![Monero](https://img.shields.io/badge/Monero-000000?style=for-the-badge&logo=monero&logoColor=00D4FF)
 ![Solana](https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=00D4FF)
-![Jupiter](https://img.shields.io/badge/Jupiter-000000?style=for-the-badge&logo=jupiter&logoColor=00D4FF)
-![Raydium](https://img.shields.io/badge/Raydium-000000?style=for-the-badge&logo=raydium&logoColor=00D4FF)
-![Uniswap](https://img.shields.io/badge/Uniswap-000000?style=for-the-badge&logo=uniswap&logoColor=00D4FF)
+
 
 </div>
