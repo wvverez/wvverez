@@ -20,9 +20,9 @@
 
 ---
 
-## Habilidades
-
 <div align="center">
+
+## Mis habilidades
 
 **Full-Stack**
 
