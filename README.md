@@ -16,7 +16,7 @@
 
 ## 🧑🏻‍💻 Mis habilidades
 
-**Full-Stack**
+**Full-Stack // Extras**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00D4FF)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00D4FF)
