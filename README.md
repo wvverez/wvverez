@@ -11,7 +11,6 @@
 
 <br><br>
 
-![Visitors](https://komarev.com/ghpvc/?username=wvverez&label=PROFILE+VIEWS&color=00D4FF&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/wvverez?label=FOLLOWERS&style=for-the-badge&color=00D4FF&labelColor=000000)
 ![Stars](https://img.shields.io/github/stars/wvverez?affiliations=OWNER%2CCOLLABORATOR&label=TOTAL+STARS&style=for-the-badge&color=00D4FF&labelColor=000000)
 
