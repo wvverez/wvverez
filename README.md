@@ -51,6 +51,5 @@
 ![Jupiter](https://img.shields.io/badge/Jupiter-000000?style=for-the-badge&logo=jupiter&logoColor=00D4FF)
 ![Raydium](https://img.shields.io/badge/Raydium-000000?style=for-the-badge&logo=raydium&logoColor=00D4FF)
 ![Uniswap](https://img.shields.io/badge/Uniswap-000000?style=for-the-badge&logo=uniswap&logoColor=00D4FF)
-![Memecoins](https://img.shields.io/badge/Memecoins-000000?style=for-the-badge&logo=dogecoin&logoColor=00D4FF)
 
 </div>
