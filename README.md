@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:050505,50:001f2f,75:003b55,100:00D4FF&height=250&section=header&text=WVVEREZ&fontSize=100&fontAlignY=30&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Developer%20%E2%80%A2%20Pentesting%20%E2%80%A2%20Open%20Source&descAlignY=55&descSize=16&descColor=8B949E" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:050505,50:001f2f,75:003b55,100:00D4FF&height=250&section=header&text=WVVEREZ&fontSize=100&fontAlignY=30&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Developer%20%E2%80%A2%20Pentesting%20%E2%80%A2%20Open%20Source%20Lover&descAlignY=55&descSize=16&descColor=8B949E" width="100%" />
 
 
 <br>
