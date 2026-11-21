@@ -11,7 +11,7 @@
 <div align="center">
 
   <!-- TECHNOLOGIES & TOOLS -->
-  <img src="https://skillicons.dev/icons?i=py,bash,js,ts,html,css,php,linux,windows,mysql,git,github,docker,kubernetes,vscode,nodejs,react,ollama&perline=10" />
+<img src="https://skillicons.dev/icons?i=py,bash,powershell,linux,kali,ubuntu,windows,git,github,docker,mysql,sqlite,vscode,ollama&perline=7" />
 
   <br><br>
 
