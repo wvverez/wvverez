@@ -10,10 +10,10 @@
 
   <!-- TECHNOLOGIES & TOOLS -->
 
-<img src="https://skillicons.dev/icons?i=py,bash,powershell,linux,kali,arch,windows,git,github,docker,mysql,vscode,ollama&perline=20" />
-<img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="48" alt="Burp Suite" />
-<img src="https://cdn.simpleicons.org/nmap/4B9CD3" height="48" alt="Nmap" />
-<img src="https://cdn.simpleicons.org/wireshark/1679A7" height="48" alt="Wireshark" />
+<img src="https://skillicons.dev/icons?i=py,bash,powershell,linux,kali,arch,windows,git,github,docker,mysql&perline=11" />
+<br>
+<img src="https://skillicons.dev/icons?i=vscode,ollama,burpsuite,nmap,wireshark&perline=5" />
+
 
   <br><br>
 
