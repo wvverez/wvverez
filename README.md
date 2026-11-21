@@ -13,7 +13,7 @@
 
   <br><br>
 
-## 🗣️
+## 🗣️ Contact
 
   <!-- SOCIAL MEDIA -->
   <img src="https://img.shields.io/badge/Discord-%40wvverez-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="25" />
