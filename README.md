@@ -10,9 +10,15 @@
 
 <div align="center">
 
-  <!-- TECHNOLOGIES -->
-  <img src="https://skillicons.dev/icons?i=py,bash,css,js,linux,mysql,php,vscode,windows,html,docker,ollama" height="60" />
+  <!-- TECHNOLOGIES & TOOLS -->
+  <img src="https://skillicons.dev/icons?i=py,bash,js,ts,html,css,php,linux,windows,mysql,git,github,docker,kubernetes,vscode,nodejs,react,ollama&perline=10" />
+
+  <br><br>
+
+  <!-- CRYPTOCURRENCIES -->
   <img src="https://cdn.simpleicons.org/bitcoin/F7931A" height="35" alt="Bitcoin" />
+  <img src="https://cdn.simpleicons.org/ethereum/627EEA" height="35" alt="Ethereum" />
+  <img src="https://cdn.simpleicons.org/solana/9945FF" height="35" alt="Solana" />
 
   <br><br>
 
@@ -25,20 +31,5 @@
   <!-- GITHUB STATS -->
   <img src="https://streak-stats.demolab.com?user=wvverez&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
   <img src="https://github-profile-trophy.vercel.app?username=wvverez&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="150" />
-
-  <br><br>
-
-  <!-- SNAKE ANIMATION -->
-  <img src="https://raw.githubusercontent.com/wvverez/wvverez/output/snake.svg" alt="Snake animation" />
-
-  <br><br>
-
-  <!-- HEADER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&theme=cobalt" width="100%" />
-
-  <br>
-
-  <!-- VISITORS -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=wvverez.wvverez&left_text=Visitors" />
 
 </div>
