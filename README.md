@@ -39,32 +39,36 @@
 ![Solana](https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=00D4FF)
 
 
-</div>
-
-
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=py,bash,css,js,linux,mysql,php,vscode,windows,html" height="60" />
+
+  <img src="https://skillicons.dev/icons?i=py,bash,css,js,linux,mysql,php,vscode,windows,html,docker,ollama" height="60" />
+  <img src="https://cdn.simpleicons.org/bitcoin/F7931A" height="60" alt="Bitcoin" />
 
   <br><br>
+
 
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25" />
+  <img src="https://img.shields.io/badge/Discord-%40wvverez-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="25" />
 
   <br><br>
 
-  <img src="https://streak-stats.demolab.com?user=leonardoperezf01&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-profile-trophy.vercel.app?username=leonardoperezf01&theme=dracula&column=-1&row=1&margin-w=8" height="150" />
+
+  <img src="https://streak-stats.demolab.com?user=leonardoperezf01&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
+  <img src="https://github-profile-trophy.vercel.app?username=leonardoperezf01&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="150" />
 
   <br><br>
+
 
   <img src="https://raw.githubusercontent.com/leonardoperezf01/leonardoperezf01/output/snake.svg" alt="Snake animation" />
 
   <br><br>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&fontColor=FFFFFF&theme=cobalt" width="100%" />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&theme=cobalt" width="100%" />
 
   <br>
+
 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=leonardoperezf01.leonardoperezf01&left_text=Visitors" />
 
