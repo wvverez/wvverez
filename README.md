@@ -3,7 +3,7 @@
 
 <div align="center">
 
-## 🧑🏻‍💻 Skills
+## 🧑🏻‍💻 My Skills
 
 
 <div align="center">
@@ -12,8 +12,6 @@
 <img src="https://skillicons.dev/icons?i=py,bash,powershell,linux,kali,arch,windows,git,github,docker,mysql,vscode,ollama&perline=7" />
 
   <br><br>
-
----
 
 ## 🗣️
 
