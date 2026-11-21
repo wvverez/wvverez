@@ -9,7 +9,11 @@
 <div align="center">
 
   <!-- TECHNOLOGIES & TOOLS -->
-<img src="https://skillicons.dev/icons?i=py,bash,powershell,linux,kali,arch,windows,git,github,docker,mysql,vscode,ollama&perline=7" />
+
+<img src="https://skillicons.dev/icons?i=py,bash,powershell,linux,kali,arch,windows,git,github,docker,mysql,vscode,ollama&perline=20" />
+<img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="48" alt="Burp Suite" />
+<img src="https://cdn.simpleicons.org/nmap/4B9CD3" height="48" alt="Nmap" />
+<img src="https://cdn.simpleicons.org/wireshark/1679A7" height="48" alt="Wireshark" />
 
   <br><br>
 
