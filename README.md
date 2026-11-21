@@ -3,9 +3,7 @@
 
 <div align="center">
 
-## 🧑🏻‍💻 
-
-**Full-Stack // Extras**
+## 🧑🏻‍💻 Skills
 
 
 <div align="center">
