@@ -1,20 +1,9 @@
-<span id="top"></span>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:050505,50:001f2f,75:003b55,100:00D4FF&height=250&section=header&text=WVVEREZ&fontSize=100&fontAlignY=30&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Developer%20%E2%80%A2%20Pentesting%20%E2%80%A2%20Open%20Source%20Lover&descAlignY=55&descSize=16&descColor=8B949E" width="100%" />
-
-
-![Followers](https://img.shields.io/github/followers/wvverez?label=FOLLOWERS&style=for-the-badge&color=00D4FF&labelColor=000000)
-![Stars](https://img.shields.io/github/stars/wvverez?affiliations=OWNER%2CCOLLABORATOR&label=TOTAL+STARS&style=for-the-badge&color=00D4FF&labelColor=000000)
-
-</div>
 
 ---
 
 <div align="center">
 
-## 🧑🏻‍💻 Mis habilidades
+## 🧑🏻‍💻 
 
 **Full-Stack // Extras**
 
@@ -49,5 +38,34 @@
 ![Monero](https://img.shields.io/badge/Monero-000000?style=for-the-badge&logo=monero&logoColor=00D4FF)
 ![Solana](https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=00D4FF)
 
+
+</div>
+
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=py,bash,css,js,linux,mysql,php,vscode,windows,html" height="60" />
+
+  <br><br>
+
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25" />
+
+  <br><br>
+
+  <img src="https://streak-stats.demolab.com?user=leonardoperezf01&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-profile-trophy.vercel.app?username=leonardoperezf01&theme=dracula&column=-1&row=1&margin-w=8" height="150" />
+
+  <br><br>
+
+  <img src="https://raw.githubusercontent.com/leonardoperezf01/leonardoperezf01/output/snake.svg" alt="Snake animation" />
+
+  <br><br>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&fontColor=FFFFFF&theme=cobalt" width="100%" />
+
+  <br>
+
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=leonardoperezf01.leonardoperezf01&left_text=Visitors" />
 
 </div>
