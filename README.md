@@ -23,6 +23,5 @@
 
   <!-- GITHUB STATS -->
   <img src="https://streak-stats.demolab.com?user=wvverez&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
-  <img src="https://github-profile-trophy.vercel.app?username=wvverez&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="150" />
 
 </div>
