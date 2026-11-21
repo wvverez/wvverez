@@ -10,7 +10,7 @@
 
   <!-- TECHNOLOGIES & TOOLS -->
 
-<img src="https://skillicons.dev/icons?i=py,bash,powershell,linux,kali,arch,windows,git,github,docker,mysql,vscode,burpsuite,wireshark&perline=20" />
+<img src="https://skillicons.dev/icons?i=py,bash,powershell,linux,kali,arch,windows,git,github,docker,mysql,vscode,burpsuite,wireshark&perline=60" />
 
 
 
