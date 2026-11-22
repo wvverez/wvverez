@@ -11,13 +11,15 @@
 <img src="https://skillicons.dev/icons?i=py,bash,powershell,linux,kali,arch,windows,git,github,docker,mysql,vscode,burpsuite,wireshark&perline=7" />
 
 <div align="center">
-  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/ollama.png" height="45" alt="Ollama" style="filter: brightness(0) invert(1);" />
+
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/ollama.svg" height="45" alt="Ollama" />
   &nbsp;&nbsp;
-  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/anthropic.png" height="45" alt="Claude" style="filter: brightness(0) invert(1);" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/claude.svg" height="45" alt="Claude" />
   &nbsp;&nbsp;
-  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/openai.png" height="45" alt="OpenAI" style="filter: brightness(0) invert(1);" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/openai.svg" height="45" alt="OpenAI" />
   &nbsp;&nbsp;
-  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/gemini.png" height="45" alt="Gemini" style="filter: brightness(0) invert(1);" />
+  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/gemini.svg" height="45" alt="Gemini" />
+
 </div>
 
 <br>
