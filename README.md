@@ -11,7 +11,6 @@
 <img src="https://skillicons.dev/icons?i=py,bash,powershell,linux,kali,arch,windows,git,github,docker,mysql,vscode,burpsuite,wireshark&perline=7" />
 
 <div align="center">
-
 <table>
 <tr>
 <td align="center">
@@ -21,14 +20,13 @@
 <img src="https://cdn.simpleicons.org/anthropic/A970FF" width="32" height="32" alt="Claude"/>
 </td>
 <td align="center">
-<img src="https://cdn.simpleicons.org/openai/A970FF" width="32" height="32" alt="OpenAI"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/openai.svg" width="32" height="32" alt="OpenAI"/>
 </td>
 <td align="center">
 <img src="https://cdn.simpleicons.org/googlegemini/A970FF" width="32" height="32" alt="Gemini"/>
 </td>
 </tr>
 </table>
-
 </div>
 
 <br>
