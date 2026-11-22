@@ -12,13 +12,13 @@
 
 <div align="center">
 
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/ollama.svg" height="45" alt="Ollama" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/claude.svg" height="45" alt="Claude" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/openai.svg" height="45" alt="OpenAI" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/gemini.svg" height="45" alt="Gemini" />
+  <img src="https://cdn.simpleicons.org/ollama/A970FF" height="70" alt="Ollama" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/anthropic/A970FF" height="70" alt="Claude" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/openai/A970FF" height="70" alt="OpenAI" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlegemini/A970FF" height="70" alt="Gemini" />
 
 </div>
 
