@@ -20,7 +20,7 @@
 <img src="https://cdn.simpleicons.org/anthropic/A970FF" width="32" height="32" alt="Claude"/>
 </td>
 <td align="center">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/openai.svg" width="32" height="32" alt="OpenAI"/>
+<img src="https://cdn.simpleicons.org/deepseek/A970FF" width="32" height="32" alt="DeepSeek"/>
 </td>
 <td align="center">
 <img src="https://cdn.simpleicons.org/googlegemini/A970FF" width="32" height="32" alt="Gemini"/>
