@@ -11,13 +11,24 @@
 <img src="https://skillicons.dev/icons?i=py,bash,powershell,linux,kali,arch,windows,git,github,docker,mysql,vscode,burpsuite,wireshark&perline=7" />
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/ollama/A970FF" height="40" alt="Ollama" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/anthropic/A970FF" height="40" alt="Claude" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/openai/A970FF" height="40" alt="OpenAI" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/googlegemini/A970FF" height="40" alt="Gemini" />
+
+<table>
+<tr>
+<td align="center">
+<img src="https://cdn.simpleicons.org/ollama/A970FF" width="32" height="32" alt="Ollama"/>
+</td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/anthropic/A970FF" width="32" height="32" alt="Claude"/>
+</td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/openai/A970FF" width="32" height="32" alt="OpenAI"/>
+</td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/googlegemini/A970FF" width="32" height="32" alt="Gemini"/>
+</td>
+</tr>
+</table>
+
 </div>
 
 <br>
