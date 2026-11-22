@@ -37,7 +37,7 @@
 
 <br>
 
-<img src="https://readme-contribs.as93.net/followers/wvverez?title=Latest%20Followers&avatarSize=55&perRow=4&shape=circle&limit=8&backgroundColor=0D1117&textColor=FFFFFF" width="100%" alt="GitHub Followers" />
+<img src="https://readme-contribs.as93.net/followers/wvverez?title=Latest%20Followers&avatarSize=55&perRow=4&shape=circle&limit=8&backgroundColor=0D1117&textColor=FFFFFF" width="50%" alt="GitHub Followers" />
 
 <br>
 
