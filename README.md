@@ -12,15 +12,18 @@
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/main/packages/static-svg/icons/ollama.svg" height="40" alt="Ollama" />
-&nbsp;
-<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/main/packages/static-svg/icons/claude.svg" height="40" alt="Claude" />
-&nbsp;
-<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/main/packages/static-svg/icons/openai.svg" height="40" alt="OpenAI" />
-&nbsp;
-<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/main/packages/static-svg/icons/gemini.svg" height="40" alt="Gemini" />
+<br><br>
 
+<div align="center">
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/ollama.svg" height="45" alt="Ollama" />
+  &nbsp;&nbsp;
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/claude.svg" height="45" alt="Claude" />
+  &nbsp;&nbsp;
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg" height="45" alt="OpenAI" />
+  &nbsp;&nbsp;
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/gemini.svg" height="45" alt="Gemini" />
+</div>
 
-<img src="https://streak-stats.demolab.com?user=wvverez&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
+<br><br>
 
 </div>
