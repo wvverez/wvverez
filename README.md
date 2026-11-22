@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## 🧑🏻‍💻 My Skills
+## 🧑🏻‍💻 Skills
 
 <br>
 
