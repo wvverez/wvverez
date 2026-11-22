@@ -14,16 +14,25 @@
 <table>
 <tr>
 <td align="center">
-<img src="https://cdn.simpleicons.org/ollama/A970FF" width="32" height="32" alt="Ollama"/>
+<img src="https://cdn.simpleicons.org/ollama/00A6FF" width="32" height="32" alt="Ollama"/>
 </td>
 <td align="center">
-<img src="https://cdn.simpleicons.org/anthropic/A970FF" width="32" height="32" alt="Claude"/>
+<img src="https://cdn.simpleicons.org/lmstudio/00A6FF" width="32" height="32" alt="LM Studio"/>
 </td>
 <td align="center">
-<img src="https://cdn.simpleicons.org/deepseek/A970FF" width="32" height="32" alt="DeepSeek"/>
+<img src="https://cdn.simpleicons.org/llamacpp/00A6FF" width="32" height="32" alt="llama.cpp"/>
 </td>
 <td align="center">
-<img src="https://cdn.simpleicons.org/googlegemini/A970FF" width="32" height="32" alt="Gemini"/>
+<img src="https://cdn.simpleicons.org/vllm/00A6FF" width="32" height="32" alt="vLLM"/>
+</td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/anthropic/00A6FF" width="32" height="32" alt="Claude"/>
+</td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/deepseek/00A6FF" width="32" height="32" alt="DeepSeek"/>
+</td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/googlegemini/00A6FF" width="32" height="32" alt="Gemini"/>
 </td>
 </tr>
 </table>
