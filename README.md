@@ -11,15 +11,13 @@
 <img src="https://skillicons.dev/icons?i=py,bash,powershell,linux,kali,arch,windows,git,github,docker,mysql,vscode,burpsuite,wireshark&perline=7" />
 
 <div align="center">
-
-  <img src="https://cdn.simpleicons.org/ollama/A970FF" height="70" alt="Ollama" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/anthropic/A970FF" height="70" alt="Claude" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/openai/A970FF" height="70" alt="OpenAI" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/googlegemini/A970FF" height="70" alt="Gemini" />
-
+  <img src="https://cdn.simpleicons.org/ollama/A970FF" height="40" alt="Ollama" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/anthropic/A970FF" height="40" alt="Claude" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/openai/A970FF" height="40" alt="OpenAI" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlegemini/A970FF" height="40" alt="Gemini" />
 </div>
 
 <br>
