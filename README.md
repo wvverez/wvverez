@@ -20,12 +20,6 @@
 <img src="https://cdn.simpleicons.org/lmstudio/00A6FF" width="32" height="32" alt="LM Studio"/>
 </td>
 <td align="center">
-<img src="https://cdn.simpleicons.org/llamacpp/00A6FF" width="32" height="32" alt="llama.cpp"/>
-</td>
-<td align="center">
-<img src="https://cdn.simpleicons.org/vllm/00A6FF" width="32" height="32" alt="vLLM"/>
-</td>
-<td align="center">
 <img src="https://cdn.simpleicons.org/anthropic/00A6FF" width="32" height="32" alt="Claude"/>
 </td>
 <td align="center">
@@ -33,6 +27,9 @@
 </td>
 <td align="center">
 <img src="https://cdn.simpleicons.org/googlegemini/00A6FF" width="32" height="32" alt="Gemini"/>
+</td>
+<td align="center">
+<img src="https://cdn.simpleicons.org/huggingface/00A6FF" width="32" height="32" alt="Hugging Face"/>
 </td>
 </tr>
 </table>
