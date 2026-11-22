@@ -26,8 +26,6 @@
 
 <img src="https://readme-contribs.as93.net/followers/wvverez?title=Latest%20Followers&avatarSize=55&perRow=4&shape=circle&limit=8&backgroundColor=0D1117&textColor=FFFFFF" width="100%" alt="GitHub Followers" />
 
-<br><br>
-
 <br>
 
 <img src="https://streak-stats.demolab.com?user=wvverez&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" />
